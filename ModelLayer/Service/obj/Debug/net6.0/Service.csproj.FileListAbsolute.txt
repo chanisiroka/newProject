@@ -1,0 +1,17 @@
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Service.deps.json
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Service.dll
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Service.pdb
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Common.dll
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Repository.dll
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Common.pdb
+H:\שנה ב\c#++\ModelLayer\Service\bin\Debug\net6.0\Repository.pdb
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.dll
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\refint\Service.dll
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\Service.pdb
+H:\שנה ב\c#++\ModelLayer\Service\obj\Debug\net6.0\ref\Service.dll
